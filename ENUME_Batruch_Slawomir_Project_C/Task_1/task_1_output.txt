@@ -1,0 +1,55 @@
+>> task_object = execute_multiple(task_object, 0, 10, true)
+Degree ; Condition ; Error_norm (csv format)
+0 ; 1.00000 ; 34.3326143520
+a transposed: [a0, a1, ...]^T (csv format)
+-7.37683 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+1 ; 10.00000 ; 24.5832292580
+a transposed: [a0, a1, ...]^T (csv format)
+-7.37683 ; -2.28512 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+2 ; 408.77960 ; 7.3646946352
+a transposed: [a0, a1, ...]^T (csv format)
+0.63028 ; -2.28512 ; -0.80071 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+3 ; 8558.43658 ; 1.4389643960
+a transposed: [a0, a1, ...]^T (csv format)
+0.63028 ; -0.64938 ; -0.80071 ; -0.09190 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+4 ; 317981.44720 ; 1.3958411179
+a transposed: [a0, a1, ...]^T (csv format)
+0.50624 ; -0.64938 ; -0.75764 ; -0.09190 ; -0.00172 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+5 ; 7467495.65952 ; 0.8500953194
+a transposed: [a0, a1, ...]^T (csv format)
+0.50624 ; -0.22686 ; -0.75764 ; -0.16207 ; -0.00172 ; 0.00222 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+6 ; 283155896.03388 ; 0.7594776315
+a transposed: [a0, a1, ...]^T (csv format)
+0.36202 ; -0.22686 ; -0.64455 ; -0.16207 ; -0.01419 ; 0.00222 ; 0.00033 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+7 ; 7646220977.72670 ; 0.7069019089
+a transposed: [a0, a1, ...]^T (csv format)
+0.36202 ; -0.06232 ; -0.64455 ; -0.21987 ; -0.01419 ; 0.00708 ; 0.00033 ; -0.00011 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+8 ; 330546434323.18176 ; 0.6996772047
+a transposed: [a0, a1, ...]^T (csv format)
+0.40483 ; -0.06232 ; -0.70971 ; -0.21987 ; 0.00061 ; 0.00708 ; -0.00070 ; -0.00011 ; 0.00002 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+9 ; 15167089011215.34961 ; 0.5149896456
+a transposed: [a0, a1, ...]^T (csv format)
+0.40483 ; -0.52453 ; -0.70971 ; 0.09120 ; 0.00061 ; -0.04674 ; -0.00070 ; 0.00318 ; 0.00002 ; -0.00006 ; 
+
+Degree ; Condition ; Error_norm (csv format)
+10 ; 929296536519140.25000 ; 0.0000000000
+a transposed: [a0, a1, ...]^T (csv format)
+0.10290 ; -0.52453 ; 0.18797 ; 0.09120 ; -0.39862 ; -0.04674 ; 0.05759 ; 0.00318 ; -0.00325 ; -0.00006 ; 0.00006 ;
