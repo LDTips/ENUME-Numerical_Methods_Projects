@@ -1,5 +1,6 @@
 # ENUME_Projects
-3 Projects in MATLAB regarding Numerical Methods problems
+3 Projects in MATLAB regarding Numerical Methods problems.\
+Done during my 5th semester of studies, winter 2021.
 
 ## 1st Project
 1. Write a program finding *macheps* in the MATLAB environment.
